@@ -1,0 +1,9 @@
+
+.DS_Store
+.ipynb_checkpoints/multilabel-checkpoint.py
+.ipynb_checkpoints/Project_SchoolBudgets-checkpoint.ipynb
+__pycache__/multilabel.cpython-36.pyc
+Data/SubmissionFormat.csv
+Data/TestData.csv
+Data/TrainingData.csv
+multilabel.py
